@@ -26,7 +26,7 @@
         }else{
             $ehPar = false;
         }
-        echo "O número $numero é ". ($ehPar ? 'par':'é impar');
+        echo "O número $numero é ". ($ehPar ? 'par':' impar');
     };
 
    };
